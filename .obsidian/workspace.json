@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f9fa0fe35877ea1",
+            "id": "59fb3d0ce38ee2d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-10-31.md",
+                "file": "String Acoustics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-31"
+              "title": "String Acoustics"
+            }
+          },
+          {
+            "id": "0264e591d941a1ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Wind Acoustics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Wind Acoustics"
             }
           }
         ],
@@ -64,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"The air column inside a wind instrument may be excited by the vibrations in turbulent air at the edge of an orifice (as in a [[Flute]]), by one or two reeds in the mouthpiece ([[Clarinet]], [[Oboe]]) or by the player's lips ([[Brass]]). The note that is produced depends on the dimentions of the resonator itself, and on the formation of stanidng waves within it. The progressive waves of radiating sound are converted into stationary waves by reflection at a boundary.\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +129,8 @@
               "title": "Trash explorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,8 +267,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1f9fa0fe35877ea1",
+  "active": "59fb3d0ce38ee2d9",
   "lastOpenFiles": [
+    "Wind Acoustics.md",
+    "String Acoustics.md",
+    "Harmonic.md",
+    "Daily/2025-10-31.md",
     "Fundamentals/Properties/Electromagnetism/Magnetic/Relative Magnetic Permeability (μr).md",
     "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetization (M).md",
     "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Susceptibility (χm).md",
@@ -266,10 +295,6 @@
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity (ε).md",
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Flux (ΦE).md",
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Field (E).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Electric Displacement Field (D).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Electric Dipole Moment (p).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Electric Charge (q).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Complex Electric Permittivity (ε̃).md",
     "e.bat",
     "New Text Document.txt",
     "pagebreak.lua",
