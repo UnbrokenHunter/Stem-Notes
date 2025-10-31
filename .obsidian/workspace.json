@@ -4,83 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "242dd46e8c2e3fc7",
+        "id": "46ad40119d528a01",
         "type": "tabs",
         "children": [
           {
-            "id": "59fb3d0ce38ee2d9",
+            "id": "f3dcd15a7272a328",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String Acoustics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "String Acoustics"
-            }
-          },
-          {
-            "id": "3de7b46e70b3bc42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocal Acoustics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vocal Acoustics"
-            }
-          },
-          {
-            "id": "0264e591d941a1ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Wind Acoustics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Wind Acoustics"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -113,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"The air column inside a wind instrument may be excited by the vibrations in turbulent air at the edge of an orifice (as in a [[Flute]]), by one or two reeds in the mouthpiece ([[Clarinet]], [[Oboe]]) or by the player's lips ([[Brass]]). The note that is produced depends on the dimentions of the resonator itself, and on the formation of stanidng waves within it. The progressive waves of radiating sound are converted into stationary waves by reflection at a boundary.\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -291,13 +228,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3de7b46e70b3bc42",
+  "active": "460a2d6bb32d1b39",
   "lastOpenFiles": [
-    "String Acoustics.md",
-    "Vocal Acoustics.md",
+    "Violin.md",
     "Wind Acoustics.md",
-    "Harmonic.md",
     "Daily/2025-10-31.md",
+    "Vocal Acoustics.md",
+    "String Acoustics.md",
+    "Harmonic.md",
     "Fundamentals/Properties/Electromagnetism/Magnetic/Relative Magnetic Permeability (μr).md",
     "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetization (M).md",
     "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Susceptibility (χm).md",
@@ -318,7 +256,6 @@
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Polarization Density (P).md",
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity of Free Space (ε0).md",
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity (ε).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Electric Flux (ΦE).md",
     "e.bat",
     "New Text Document.txt",
     "pagebreak.lua",
