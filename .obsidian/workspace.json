@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3de7b46e70b3bc42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocal Acoustics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vocal Acoustics"
+            }
+          },
+          {
             "id": "0264e591d941a1ff",
             "type": "leaf",
             "state": {
@@ -56,6 +80,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -129,8 +154,7 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,10 +291,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "59fb3d0ce38ee2d9",
+  "active": "3de7b46e70b3bc42",
   "lastOpenFiles": [
-    "Wind Acoustics.md",
     "String Acoustics.md",
+    "Vocal Acoustics.md",
+    "Wind Acoustics.md",
     "Harmonic.md",
     "Daily/2025-10-31.md",
     "Fundamentals/Properties/Electromagnetism/Magnetic/Relative Magnetic Permeability (μr).md",
@@ -294,7 +319,6 @@
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity of Free Space (ε0).md",
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity (ε).md",
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Flux (ΦE).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Electric Field (E).md",
     "e.bat",
     "New Text Document.txt",
     "pagebreak.lua",
