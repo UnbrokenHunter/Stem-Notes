@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-10-30.md",
+                "file": "Daily/2025-10-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-30"
+              "title": "2025-10-31"
             }
           }
         ],
@@ -245,6 +245,8 @@
   },
   "active": "d1d387f545a8f294",
   "lastOpenFiles": [
+    "Daily/2025-10-30.md",
+    "Daily/2025-10-31.md",
     "Constructs/Chemistry/Molecular Orbital Diagram.md",
     "Constructs/Maths/Vector Field.md",
     "Constructs/Chemistry/Formal Charge.md",
@@ -274,8 +276,6 @@
     "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Field (E).md",
     "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Charge (q).md",
     "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Displacement Field (D).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Dipole Moment (p).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Complex Electric Permittivity (ε̃).md",
     "_export_clean/Fundamentals/Properties/Optical/Refractive Index",
     "_export_clean/Fundamentals/Properties/Electromagnetism/Electric",
     "_export_clean/Fundamentals/Properties/Electromagnetism/Magnetic",
