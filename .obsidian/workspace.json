@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7133dd3d2bf2f134",
+        "id": "242dd46e8c2e3fc7",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d387f545a8f294",
+            "id": "1f9fa0fe35877ea1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "molec",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,8 +105,7 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,39 +242,39 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d1d387f545a8f294",
+  "active": "1f9fa0fe35877ea1",
   "lastOpenFiles": [
-    "Daily/2025-10-30.md",
-    "Daily/2025-10-31.md",
-    "Constructs/Chemistry/Molecular Orbital Diagram.md",
-    "Constructs/Maths/Vector Field.md",
-    "Constructs/Chemistry/Formal Charge.md",
-    "Constructs/Physics/Diamagnetic.md",
-    "Constructs/Maths/Eigenvalues and Eigenvectors.md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Relative Magnetic Permeability (μr).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetization (M).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Susceptibility (χm).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Permeability of Free Space (μ0).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Permeability (μ).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Flux (ΦB).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Field (H).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Field (B).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Field.md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Dipole Moment (m).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Charge (g).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Elementary Magnetic Charge (gD).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Complex Magnetic Permeability (μ̃).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Volume Charge Density (ρ).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Relative Electric Permittivity (εr).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Elementary Electric Charge (e).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Susceptibility (χₑ).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Polarization Density (P).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity of Free Space (ε0).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity (ε).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Flux (ΦE).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Field (E).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Displacement Field (D).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Dipole Moment (p).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Charge (q).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Complex Electric Permittivity (ε̃).md",
     "e.bat",
     "New Text Document.txt",
     "pagebreak.lua",
-    "_export_clean/Subjects/Multivariable Calculus.md",
-    "_export_clean/Subjects/Linear Algebra.md",
     "_export_clean/Subjects",
-    "_export_clean/Objects/Light.md",
     "_export_clean/Objects",
-    "_export_clean/Fundamentals/Properties/Optical/Refractive Index/Damping Rate (γ).md",
-    "_export_clean/Fundamentals/Properties/Optical/Refractive Index/Refractive Index (n).md",
-    "_export_clean/Fundamentals/Properties/Optical/Refractive Index/Extinction Coefficient (κ).md",
-    "_export_clean/Fundamentals/Properties/Optical/Refractive Index/Complex Refractive Index (ñ).md",
-    "_export_clean/Fundamentals/Properties/Optical/Refractive Index/Absorption Coefficient (α).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Volume Charge Density (ρ).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Relative Electric Permittivity (εr).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Elementary Electric Charge (e).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Polarization Density (P).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Susceptibility (χₑ).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity of Free Space (ε0).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity (ε).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Flux (ΦE).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Field (E).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Charge (q).md",
-    "_export_clean/Fundamentals/Properties/Electromagnetism/Electric/Electric Displacement Field (D).md",
     "_export_clean/Fundamentals/Properties/Optical/Refractive Index",
     "_export_clean/Fundamentals/Properties/Electromagnetism/Electric",
     "_export_clean/Fundamentals/Properties/Electromagnetism/Magnetic",
