@@ -1,0 +1,1 @@
+{{VALUE:Add Todo}} ➕ {{date}} 📅 {{VDATE:due date,YYYY-MM-DD}}

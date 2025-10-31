@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "-path:!Obsidian  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 3841337
+      }
+    },
+    {
+      "query": "tag:#physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#math  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701159
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.81652806652807,
+  "lineSizeMultiplier": 0.655197505197505,
+  "collapse-forces": false,
+  "centerStrength": 0.171517671517672,
+  "repelStrength": 12.7442827442827,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.28452281504956045,
+  "close": true
+}

@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "33bb09ef3864ab96",
+    "type": "split",
+    "children": [
+      {
+        "id": "e76ce62714ae218a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7da380277c9cb29c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "519158838d059ee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "260989a78d136ee7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "460a2d6bb32d1b39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cd90a605b188c032",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#classicalmechanics",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b43afaf8e0d932e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "516373fccf6c65b3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "059bad5c06e44436",
+            "type": "leaf",
+            "state": {
+              "type": "trash-explorer",
+              "state": {},
+              "icon": "trash",
+              "title": "Trash explorer"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 317.5
+  },
+  "right": {
+    "id": "31cf1482205f6a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "81da216971f62d04",
+        "type": "tabs",
+        "dimension": 30.5521472392638,
+        "children": [
+          {
+            "id": "aff68c38fdc33897",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "407afac34a19da19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5c9194f2ee23de9a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fed08a82fb0a3682",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5989b4e02e015e1f",
+        "type": "tabs",
+        "dimension": 41.349693251533736,
+        "children": [
+          {
+            "id": "2dcbf02fc2bab1aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e82ac383e10e39cd",
+        "type": "tabs",
+        "dimension": 28.09815950920245,
+        "children": [
+          {
+            "id": "0ee2345464c821fc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": true,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "attachment-manager:Toggle visibility of attachment folder": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "templater-obsidian:Templater": true,
+      "random-note:Open random note": false
+    }
+  },
+  "active": "516373fccf6c65b3",
+  "lastOpenFiles": [
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Field (E).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Flux (ΦB).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Flux (ΦE).md",
+    "Constructs/Physics/Flux.md",
+    "Daily/2025-10-30.md",
+    "Fundamentals/Properties/Optical/Refractive Index/Refractive Index (n).md",
+    "Fundamentals/Laws and Equations/Maxwell's Equations.md",
+    "Vacuum Permittivity (ε₀).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Dipole Moment (m).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetization (M).md",
+    "Objects/Light.md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Dipole Moment (p).md",
+    "Constructs/Physics/Dipole.md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Polarization Density (P).md",
+    "Constructs/Physics/Polarization (Matter).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Volume Charge Density (ρ).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Charge (q).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Susceptibility (χₑ).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Elementary Electric Charge (e).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Relative Electric Permittivity (εr).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity of Free Space (ε0).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity (ε).md",
+    "Fundamentals/Properties/Electromagnetism/Electric/Complex Electric Permittivity (ε̃).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Complex Magnetic Permeability (μ̃).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Permeability (μ).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic/Magnetic Permeability of Free Space (μ0).md",
+    "Fundamentals/Properties/Electromagnetism/Magnetic",
+    "Fundamentals/Properties/Electromagnetism/Electric",
+    "Fundamentals/Properties/Materials/Polarity.md_Attachments/image.png",
+    "Fundamentals/Properties/Materials/Polarity.md_Attachments",
+    "Daily",
+    "Untitled.base",
+    "Constructs/Science",
+    "Fundamentals/Laws and Equations/Gauss' Law for Electricity.md_Attachments/image.png",
+    "Fundamentals/Laws and Equations/Gauss' Law for Electricity.md_Attachments",
+    "Constructs/Maths/Operators/Curl Operator.md_Attachments/{17689D1E-FBAC-4953-A338-6E831834B6E3}.png",
+    "Constructs/Maths/Operators/Curl Operator.md_Attachments/{99F36838-1164-4CB5-81A0-9510BEA7A660}.png",
+    "Constructs/Maths/Operators/Curl Operator.md_Attachments",
+    "Constructs/Maths/Operators/Divergence Operator.md_Attachments/{96BC835C-68AA-41D4-B485-74E36A3A3D68}.png",
+    "Constructs/Maths/Operators/Divergence Operator.md_Attachments/{A41B6071-CC17-43F7-A531-FC49FA5C62C9}.png",
+    "Constructs/Maths/Operators/Divergence Operator.md_Attachments",
+    "Fundamentals/Properties/Electromagnetism",
+    "Fundamentals/Properties/Waves/Wavelength (λ).md_Attachments/image.png",
+    "Constructs/Maths/Operators/Partial Derivative.md_Attachments/{7234C98A-3117-4DF1-8412-30155EB5F357}.png",
+    "Constructs/Maths/Operators/Cross Products.md_Attachments/{59793A86-CE38-4C04-9A6E-84C24C21ABE0}.png",
+    "Constructs/Maths/Operators/Cross Products.md_Attachments/Cross Products-20251028114335988.png",
+    "Untitled.canvas"
+  ]
+}

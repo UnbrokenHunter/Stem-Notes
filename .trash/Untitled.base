@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+        - file.hasLink("Constructs/Science/Constant")
+  - type: cards
+    name: View
+    cardSize: 320
+    imageAspectRatio: 1.25
+    imageFit: contain

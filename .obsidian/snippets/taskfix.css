@@ -1,0 +1,12 @@
+.markdown-preview-view .task-list-item-checkbox {
+  position: relative;
+  top: 0.2em;
+  margin-inline-end: 0.6em;
+}
+
+.markdown-source-view.mod-cm6 .task-list-item-checkbox {
+  top: -0.1em;
+  vertical-align: middle;
+  margin-inline-start: 1em;
+  margin-inline-end: 0.25em;
+}

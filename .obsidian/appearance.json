@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "PLN",
+  "accentColor": "#7cd0ce",
+  "showRibbon": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "taskfix"
+  ]
+}

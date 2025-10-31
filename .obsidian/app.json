@@ -1,0 +1,17 @@
+{
+  "attachmentFolderPath": "./Electric Field (E).md_Attachments",
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "vimMode": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
