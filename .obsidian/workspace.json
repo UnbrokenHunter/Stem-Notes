@@ -8,16 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3dcd15a7272a328",
+            "id": "e9eb9f4f7ce56c0f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Euler's Formula.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Euler's Formula"
+            }
+          },
+          {
+            "id": "e42fc0a747b00b7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tornado.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tornado"
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -228,8 +267,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "460a2d6bb32d1b39",
+  "active": "e42fc0a747b00b7c",
   "lastOpenFiles": [
+    "Tornado.md_Attachments/{97320845-88D5-439C-BE8F-1D3D73CF2CA0}.png",
+    "Tornado.md_Attachments/39131306720_206bec6fb8_c.jpg",
+    "Tornado.md_Attachments/{DF0DB0D6-22AD-4733-912D-B5EB35D60900}.png",
+    "Tornado.md_Attachments/{4CCF1027-9E4A-4D5E-9871-9D1FE8BE1DD1}.png",
+    "Tornado.md_Attachments/{6141A5EF-92F6-45A7-9D57-EF981DB9CC9A}.png",
+    "Tornado.md_Attachments/{B653D426-3F77-4043-A177-861C4B2A8143}.png",
+    "Tornado.md_Attachments/image.png",
+    "Tornado.md_Attachments/{2265A7C3-A366-4A42-A378-5BBF45E6F0B5}.png",
+    "Tornado.md_Attachments/{217C51EB-87C3-48A3-B258-F055ECC9273C}.png",
+    "Tornado.md_Attachments",
+    "Euler's Formula.md",
+    "Tornado.md",
     "Violin.md",
     "Wind Acoustics.md",
     "Daily/2025-10-31.md",
@@ -253,9 +304,6 @@
     "Fundamentals/Properties/Electromagnetism/Electric/Relative Electric Permittivity (εr).md",
     "Fundamentals/Properties/Electromagnetism/Electric/Elementary Electric Charge (e).md",
     "Fundamentals/Properties/Electromagnetism/Electric/Electric Susceptibility (χₑ).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Electric Polarization Density (P).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity of Free Space (ε0).md",
-    "Fundamentals/Properties/Electromagnetism/Electric/Electric Permittivity (ε).md",
     "e.bat",
     "New Text Document.txt",
     "pagebreak.lua",
@@ -265,17 +313,8 @@
     "_export_clean/Fundamentals/Properties/Electromagnetism/Electric",
     "_export_clean/Fundamentals/Properties/Electromagnetism/Magnetic",
     "_export_clean/Fundamentals/Properties/Waves",
-    "_export_clean/Fundamentals/Properties/Reactions",
     "Fundamentals/Properties/Materials/Polarity.md_Attachments/image.png",
     "Fundamentals/Laws and Equations/Gauss' Law for Electricity.md_Attachments/image.png",
-    "Constructs/Maths/Operators/Curl Operator.md_Attachments/{17689D1E-FBAC-4953-A338-6E831834B6E3}.png",
-    "Constructs/Maths/Operators/Curl Operator.md_Attachments/{99F36838-1164-4CB5-81A0-9510BEA7A660}.png",
-    "Constructs/Maths/Operators/Divergence Operator.md_Attachments/{96BC835C-68AA-41D4-B485-74E36A3A3D68}.png",
-    "Constructs/Maths/Operators/Divergence Operator.md_Attachments/{A41B6071-CC17-43F7-A531-FC49FA5C62C9}.png",
-    "Fundamentals/Properties/Waves/Wavelength (λ).md_Attachments/image.png",
-    "Constructs/Maths/Operators/Partial Derivative.md_Attachments/{7234C98A-3117-4DF1-8412-30155EB5F357}.png",
-    "Constructs/Maths/Operators/Cross Products.md_Attachments/{59793A86-CE38-4C04-9A6E-84C24C21ABE0}.png",
-    "Constructs/Maths/Operators/Cross Products.md_Attachments/Cross Products-20251028114335988.png",
     "Untitled.canvas"
   ]
 }
