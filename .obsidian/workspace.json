@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Euler's Formula"
             }
-          },
-          {
-            "id": "e42fc0a747b00b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tornado.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tornado"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -267,8 +242,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e42fc0a747b00b7c",
+  "active": "e9eb9f4f7ce56c0f",
   "lastOpenFiles": [
+    "Tornado.md",
     "Tornado.md_Attachments/{97320845-88D5-439C-BE8F-1D3D73CF2CA0}.png",
     "Tornado.md_Attachments/39131306720_206bec6fb8_c.jpg",
     "Tornado.md_Attachments/{DF0DB0D6-22AD-4733-912D-B5EB35D60900}.png",
@@ -280,7 +256,6 @@
     "Tornado.md_Attachments/{217C51EB-87C3-48A3-B258-F055ECC9273C}.png",
     "Tornado.md_Attachments",
     "Euler's Formula.md",
-    "Tornado.md",
     "Violin.md",
     "Wind Acoustics.md",
     "Daily/2025-10-31.md",
@@ -314,7 +289,6 @@
     "_export_clean/Fundamentals/Properties/Electromagnetism/Magnetic",
     "_export_clean/Fundamentals/Properties/Waves",
     "Fundamentals/Properties/Materials/Polarity.md_Attachments/image.png",
-    "Fundamentals/Laws and Equations/Gauss' Law for Electricity.md_Attachments/image.png",
     "Untitled.canvas"
   ]
 }
